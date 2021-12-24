@@ -1,5 +1,6 @@
 # **C++ 뿌시기**
 
+![Cpp](https://user-images.githubusercontent.com/76714659/147364762-688af27e-7911-4074-aba0-f57d1d4c3551.png)
 
 ## **Contents**
 ---

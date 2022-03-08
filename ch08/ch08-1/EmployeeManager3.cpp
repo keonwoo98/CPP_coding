@@ -67,7 +67,7 @@ private :
 	double bonusRatio;
 public :
 	SalesWorker(char *name, int money, double ratio)
-		: PermanentWorker(name, money), salesResult(0), bonusRatio(0)
+		: PermanentWorker(name, money), salesResult(0), bonusRatio(ratio)
 	{ }
 	void AddSalesResult(int value)
 	{

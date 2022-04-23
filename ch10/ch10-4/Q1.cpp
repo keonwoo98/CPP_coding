@@ -39,5 +39,6 @@ int main(void)
 	cout << "x, y 좌표 순으로 입력: ";
 	cin >> pos2;
 	cout << pos2;
+	
 	return 0;
 }
